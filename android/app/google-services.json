@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324948581496",
+    "project_id": "flutterchatapp-8edc5",
+    "storage_bucket": "flutterchatapp-8edc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324948581496:android:2319d4dff43d3ece97e18d",
+        "android_client_info": {
+          "package_name": "com.example.chat_massanger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFvDUxoB736XokfRVYTAoUqC2ef0pY2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
